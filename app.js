@@ -16,7 +16,7 @@ var express = require('express'),
   
   
   app.listen(3000, function () {
-		console.log('sushil_so_node_test is listening on port 3000!')
+		console.log('priyanshu_so_node_test is listening on port 3000!')
 	})
 
 app.use("/",routes); // Set default route to route folder
